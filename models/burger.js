@@ -7,7 +7,6 @@ var burgers = {
       cb(res);
     });
   },
-  // The variables cols and vals are arrays.
   insertOne: function(burger_name, cb) {
     orm.insertOne("burgers", burger_name, function(res) {
       cb(res);
