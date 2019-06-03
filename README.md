@@ -1,4 +1,4 @@
-# :Eat a Burger App
+# Eat a Burger App
 
 
 ### Overview
